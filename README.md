@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi all!
+
+I am a student at the University of Bristol, Studying Mathematics and Computer Science. My potential future careers are a data scientist and quantitative trader.
 
 <!--
 **don2001/don2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
