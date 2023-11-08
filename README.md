@@ -1,8 +1,10 @@
 ### Hi all!
 
-I am a student at the University of Bristol, Studying Mathematics and Computer Science. My potential future careers are a data scientist and quantitative trader.
-
+I am a student at the University of Bristol, Studying Mathematics and Computer Science. My potential future careers are as a data scientist and quantitative trader.
+I'm currently working on data science competitions on Kaggle and learning new machine learning Algorithms.
+Connect me in : https://www.linkedin.com/in/thammadolt/
 Link to my project: https://github.com/elsebasmar/london-bss
+Programming languages: Python, R, C++
 
 <!--
 **don2001/don2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
